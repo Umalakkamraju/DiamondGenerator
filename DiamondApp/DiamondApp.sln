@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiamondApp", "DiamondApp\DiamondApp.csproj", "{4334A92F-48FD-43C0-AB64-FF84890208BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiamondApp.Tests", "DiamondApp.Tests\DiamondApp.Tests.csproj", "{886D8A3B-DD3B-4831-89BE-14E47B0DC24F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4334A92F-48FD-43C0-AB64-FF84890208BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4334A92F-48FD-43C0-AB64-FF84890208BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4334A92F-48FD-43C0-AB64-FF84890208BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4334A92F-48FD-43C0-AB64-FF84890208BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886D8A3B-DD3B-4831-89BE-14E47B0DC24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886D8A3B-DD3B-4831-89BE-14E47B0DC24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886D8A3B-DD3B-4831-89BE-14E47B0DC24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886D8A3B-DD3B-4831-89BE-14E47B0DC24F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {095BA413-E35B-48EA-9E65-984316B91930}
+	EndGlobalSection
+EndGlobal

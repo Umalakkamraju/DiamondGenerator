@@ -1,0 +1,71 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider settings
+.idea/
+
+# Rider shared index
+.idea/idea-shared/
+
+# Rider auto-generated code analysis issues
+.idea/codeStyle.codeAnalysis.xml
+.idea/caches/
+.idea/workspace.xml
+.idea/usage.statistics.xml
+
+# Rider settings folder
+.idea/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+._.DS_Store
+
+# Node
+node_modules/
+
+# Log files
+*.log
+
+# StyleCop
+StyleCop.Cache
+
+# Visual Studio
+.vs/
+TestResults/
